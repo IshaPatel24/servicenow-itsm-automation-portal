@@ -1,0 +1,42 @@
+Project Overview
+This project demonstrates IT Service Management (ITSM) workflow automation using ServiceNow. It includes Service Catalog request processing, approval workflows, catalog task management, request lifecycle tracking, and Jira integration using REST APIs.
+
+Key Features:
+-Service Catalogue Automation
+-Request Management
+-Requested Item Management
+-Catalogue Task Automation
+-Approval Workflow
+-Request Closure
+-Jira Integration
+-REST API Communication
+
+Technologies:
+-ServiceNow
+-Jira
+-REST API
+-GitHub
+
+Outcomes
+-Automated request fulfillment process
+-Implemented approval workflows
+-Integrated ServiceNow with Jira
+-Created portfolio-ready project documentation
+
+Final Repository Structure
+servicenow-itsm-automation-portal/
+│
+├── README.md
+│
+├── docs/
+│   ├── project_summary.md
+│   ├── architecture_diagram.md
+│   └── project_summary.pdf
+│
+├── screenshots/
+│   ├── phase1-setup/
+│   ├── phase2-request-management/
+│   ├── phase3-workflow-automation/
+│   └── phase4-jira-integration/
+│
+└── workflows/
